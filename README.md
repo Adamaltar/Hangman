@@ -76,9 +76,6 @@ None
   Think of the input requirements and the results of these units! Add the necessary
   inputs as parameters, and return the results that is needed by the caller side!
 
-## Starting repository
-
-Follow [this link](https://journey.code.cool/v2/project/team/blueprint/hangman-python/python) to create your project repository.
 
 ## Background materials
 
@@ -87,9 +84,4 @@ Follow [this link](https://journey.code.cool/v2/project/team/blueprint/hangman-p
 - [Sets](https://learn.code.cool/full-stack/#/../pages/python/sets)
 - [File handling](https://learn.code.cool/full-stack/#/../pages/python/file-handling)
 
-## Acceptance review
 
-You will need this only at review time, **after** completing the project.
-[Use this form](https://forms.gle/68QY5E5iDw5hDQUi6) to record the review you provide for your peer.
-
-For now, you can check your (and everyone else's) results in the [summary spreadsheet](https://docs.google.com/spreadsheets/d/1otJkV-zl-Sfg3BWX1ZbFJ_e-GpLf5Jr6oSysZTfpfD4/edit#gid=31463349).
