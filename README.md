@@ -41,7 +41,7 @@ And there's also a chance to exhibit your ASCII art talent!
     - Both uppercase and lowercase letters are considered as valid input
     - Uppercase and lowercase letters guesses reveal the same letters (e.g. both `c` and `C` guesses reveal all the `c`s in the word, regardless of their case)
     - Letters of different cases behave as if they were the same when checking repetitions (e.g. entering `c` after a `C` would count as a repetition)
-    - On the displaying side, however, letters are revealed as they originally appear in `word` (e.g. successfully guessing `c` shows `C _ _ _ c _ _ _` for `Codecool`)
+    - On the displaying side, however, letters are revealed as they originally appear in `word` (e.g. successfully guessing `c` shows `C _ _ c _` for `Click`)
 
 3. Add ASCII art to visualize lives left.
 
