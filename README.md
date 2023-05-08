@@ -79,9 +79,9 @@ None
 
 ## Background materials
 
-- [Strings](https://learn.code.cool/full-stack/#/../pages/python/strings)
-- [User input](https://learn.code.cool/full-stack/#/../pages/python/user-input)
-- [Sets](https://learn.code.cool/full-stack/#/../pages/python/sets)
-- [File handling](https://learn.code.cool/full-stack/#/../pages/python/file-handling)
+- [Strings](Python-Strings.html)
+- [User input](Python-console.html)
+- [Sets](Python-Sets.html)
+- [File handling](Python-File_Handling.html)
 
 
